@@ -1,0 +1,375 @@
+project:
+  type: book
+
+book:
+  title: "Kinh Pháp Cú"
+  sidebar:
+    collapse-level: 1
+  chapters:
+    - index.qmd
+    - muc-luc.qmd
+    - part: pham-song-doi.qmd
+      chapters:
+        - lam-ac-gap-du.qmd
+        - hanh-thien-gap-lanh.qmd
+        - tra-thu-bao-oan.qmd
+        - tinh-thuong-chinh-phuc-san-han.qmd
+        - tu-tuong-chan-chinh-cham-dut-bat-hoa.qmd
+        - nguoi-yeu-sa-nga-truoc-cam-do.qmd
+        - xung-ao-ca-sa.qmd
+        - tri-kien-chan-chinh.qmd
+        - tham-duc.qmd
+        - nguoi-lam-ac-chiu-kho.qmd
+        - nguoi-hanh-thien-hanh-phuc.qmd
+        - lam-ac-than-van.qmd
+        - song-chan-chinh-duoc-hanh-phuc.qmd
+        - hoc-ma-khong-hanh-thi-vo-bo.qmd
+    - part: pham-khong-xao-lang.qmd
+      chapters:
+        - phong-dat-nhu-chet-roi.qmd
+        - tinh-tan-duoc-sung-tuc.qmd
+        - bac-thien-tri-tao-thien-dang-cho-minh.qmd
+        - chu-niem-khong-phong-dat.qmd
+        - dung-tam-niem-khac-phuc-phong-dat.qmd
+        - kien-tri-co-gang.qmd
+        - chuyen-can-dan-den-quyen-toi-thuong.qmd
+        - nguoi-chuyen-can-vung-tien.qmd
+        - nguoi-chuyen-can-doi-dien-niet-ban.qmd
+    - part: pham-tam.qmd
+      chapters:
+        - hay-giu-vung-cai-tam-chao-dong-cua-ta.qmd
+        - hay-kiem-soat-tam.qmd
+        - hay-canh-chung-tu-tuong.qmd
+        - nguoi-da-kiem-soat-tam-song-tu-do.qmd
+        - nguoi-giac-tinh-khong-so-set.qmd
+        - hay-kien-co-tam-khong-nen-luyen-ai.qmd
+        - tam-bat-thien-la-ke-thu-te-nhat.qmd
+        - tam-huong-thien-nhu-cha-me.qmd
+    - part: pham-bong-hoa.qmd
+      chapters:
+        - nguoi-cao-thuong-chinh-phuc-tu-nga.qmd
+        - the-xac-nay-tua-ho-mot-ao-anh.qmd
+        - cai-chet-cuon-nguoi-khong-giac-tinh-song-trong-duc-lac.qmd
+        - nguoi-tham-duc-chet-voi-duc-vong-bat-thoa-man.qmd
+        - bac-thanh-tang-khong-gay-ton-hai-cho-bat-cu-ai.qmd
+        - khong-tim-loi-ke-khac-ma-tim-o-chinh-minh.qmd
+        - thuc-hanh-tot-hon-loi-giao-huan-suong.qmd
+        - hay-tao-nhieu-phuoc-bau.qmd
+        - huong-thom-cua-gioi-duc-bay-khap-noi.qmd
+        - huong-thom-cua-duc-hanh-cao-quy-nhat.qmd
+        - khong-the-theo-dau-thuc-tai-sanh-cua-mot-vi-a-la-han.qmd
+        - nguoi-thap-hen-cung-co-diem-cao-thuong.qmd
+    - part: pham-ke-ngu.qmd
+      chapters:
+        - luan-hoi-xa-xoi-voi-nguoi-khong-biet-giao-phap.qmd
+        - tranh-ket-hop-voi-nguoi-cuong-dai.qmd
+        - chinh-ta-khong-phai-la-cua-ta.qmd
+        - biet-nhan-thuc-su-cuong-dai-cua-minh-la-nguoi-tri.qmd
+        - nguoi-cuong-dai-khong-the-nhan-chan-gia-tri-cua-giao-phap.qmd
+        - bac-thien-tri-nhan-chan-gia-tri-cua-giao-phap.qmd
+        - qua-cua-hanh-dong-bat-thien-la-dang.qmd
+        - hanh-dong-la-bat-thien-neu-dem-lai-hoi-han.qmd
+        - hanh-dong-la-thien-neu-khong-dem-lai-hoi-han.qmd
+        - nguoi-hanh-ac-di-den-phien-nao.qmd
+        - chung-ngo-thap-phan-cao-thuong-tuyet-coc-suong.qmd
+        - hanh-dong-bat-thien-se-tro-qua-dung-luc.qmd
+        - voi-nguoi-cuong-dai-tri-thuc-va-danh-vong-co-khuynh-huong-lam-sup-do-ho.qmd
+        - nguoi-si-me-tim-danh-vong-bat-chanh.qmd
+        - con-duong-niet-ban-khac-con-duong-danh-loi.qmd
+    - part: pham-nguoi-tri.qmd
+      chapters:
+        - hay-ket-hop-voi-nguoi-tri-het-long-khuyen-thien-ta.qmd
+        - nguoi-tot-hoan-hi-noi-loi-khuyen-day.qmd
+        - hay-ket-hop-voi-ban-lanh.qmd
+        - nguoi-tham-nhuan-giao-phap-song-hanh-phuc.qmd
+        - bac-thien-tri-tu-kiem-soat-lay-minh.qmd
+        - nguoi-thien-tri-khong-xao-dong-truoc-khen-che.qmd
+        - nguoi-tri-duoc-an-tinh.qmd
+        - nguoi-thien-tri-khong-bong-bot-cung-khong-nan-chi.qmd
+        - khong-nen-tim-thanh-cong-bang-nhung-phuong-tien-bat-chanh.qmd
+        - nguoi-thuc-hanh-giao-phap-vuot-qua-ben-kia.qmd
+        - nguoi-khong-luyen-ai-song-an-tinh.qmd
+    - part: pham-a-la-han.qmd
+      chapters:
+        - bac-thoat-tuc-khong-con-dau-kho.qmd
+        - chu-vi-a-la-han-khong-con-luyen-ai.qmd
+        - khong-nen-luyen-ai-vat-thuc.qmd
+        - nguoi-khong-o-nhiem-song-tu-do.qmd
+        - nguoi-biet-tu-che-duoc-tat-ca-quy-men.qmd
+        - nhu-dat-chu-vi-a-la-han-khong-chao-dong.qmd
+        - nguoi-tram-tinh-song-an-tinh.qmd
+        - nguoi-khong-nhe-da-la-cao-quy.qmd
+        - tinh-lac-thay-noi-nao-co-a-la-han-tru-ngu.qmd
+        - nguoi-khong-duc-vong-thoa-thich-trong-rung-sau.qmd
+    - part: pham-mot-ngan.qmd
+      chapters:        
+        - mot-loi-huu-ich-hon-hang-ngan-tieng-noi-vo-dung.qmd
+        - mot-cau-huu-ich-hon-ngan-cau-vo-dung.qmd
+        - mot-loi-giao-phap-hon-tram-cau-vo-dung.qmd
+        - thang-minh-hon-thang-nguoi.qmd
+        - ton-kinh-bac-ung-cung.qmd
+        - ton-kinh-bac-hoan-toan-trong-sach-hon-te-than-lua.qmd
+        - ton-kinh-bac-hoan-toan-trong-sach-quy-hon-giet-thu-te-than.qmd
+        - phuoc-bau-ton-kinh-bac-dang-kinh.qmd
+        - song-ngan-ngui-ma-dao-duc-quy-hon-song-lau-ma-buong-lung.qmd
+        - mang-yeu-ma-tri-tue-quy-hon-tho-ma-si-me.qmd
+        - song-ngan-ngui-ma-tinh-can-quy-hon-song-lau-ma-giai-dai.qmd
+        - doi-song-suy-tu.qmd
+        - mot-ngay-chung-ngo.qmd
+        - mot-ngay-nhan-thay-giao-phap-quy-hon-ca-the-ky-khong-thay.qmd
+    - part: pham-dieu-ac.qmd
+      chapters:
+      - hay-gap-rut-lam-viec-thien.qmd
+      - khong-nen-lap-di-lap-lai-dieu-ac.qmd
+      - hay-lap-di-lap-lai-dieu-thien.qmd
+      - qua-tro-se-biet-hanh-dong-ac-hay-thien.qmd
+      - khong-nen-xem-thuong-dieu-ac.qmd
+      - khong-nen-xem-thuong-dieu-thien.qmd
+      - hay-lanh-xa-dieu-ac-nhu-lanh-xa-mot-con-duong-nguy-hiem.qmd
+      - nguoi-khong-co-y-dinh-xau-se-khong-tao-nghiep-ac.qmd
+      - ai-gay-ton-hai-cho-nguoi-vo-toi-se-chiu-sau-muon.qmd
+      - tai-sanh-tuy-noi-hanh-dong.qmd
+      - khong-ai-tranh-duoc-hau-qua-nghiep-ac-da-tao.qmd
+      - khong-the-khac-phuc-cai-chet.qmd
+    - part: pham-hinh-phat.qmd
+      chapters:
+      - khong-nen-sat-hai.qmd
+      - tat-ca-deu-quy-trong-doi-song.qmd
+      - khong-nen-hanh-ha.qmd
+      - khong-noi-loi-tho-lo.qmd
+      - khong-ai-tranh-duoc-canh-gia-chet.qmd
+      - nguoi-hanh-ac-bi-qua-du-thieu-dot.qmd
+      - ke-xam-pham-nguoi-vo-toi-di-den-sau-muon.qmd
+      - loi-song-ep-xac-khong-lam-con-nguoi-tro-nen-trong-sach.qmd
+      - hinh-dang-be-ngoai-khong-bien-doi-nguoi-pham-ra-thanh.qmd
+      - the-gian-hiem-nguoi-khiem-ton.qmd
+      - nguoi-tot-tu-kiem-soat.qmd
+    - part: pham-su-gia.qmd
+      chapters:
+      - tim-anh-sang.qmd
+      - the-xac-nay-qua-that-o-truoc.qmd
+      - doi-song-cham-dut-trong-su-chet.qmd
+      - nhin-mot-dong-xuong-thi-co-gi-thich-thu.qmd
+      - the-xac-nay-gom-thit-va-mau.qmd
+      - duc-hanh-chan-chinh-khong-hu-cu.qmd
+      - nguoi-hoc-it-kem-tri-tue.qmd
+      - ai-duc-la-nguoi-xay-dung-cai-nha-nay.qmd
+      - nguoi-khong-tien-bo-se-an-nan-hoi-han.qmd
+    - part: pham-tu-nga.qmd
+      chapters:      
+      - hay-giac-tinh.qmd
+      - thay-phai-lam-guong-truoc.qmd
+      - day-nguoi-the-nao-hanh-the-ay.qmd
+      - ta-la-nuong-tua-cua-ta.qmd
+      - ta-chiu-trach-nhiem-voi-hanh-dong-ac-cua-ta.qmd
+      - nguoi-o-nhiem-lam-minh-sup-do.qmd
+      - lam-ac-thi-de-dieu-lanh-that-kho-lam.qmd
+      - khong-nen-khinh-nhuong-bac-cao-quy.qmd
+      - trong-sach-hay-o-nhiem-deu-do-noi-ta.qmd
+      - hay-chuyen-can-de-thanh-dat-an-lac-tinh-than.qmd
+    - part: pham-the-gian.qmd
+      chapters:
+      - hay-tu-bo-tham-vong-thap-hen.qmd
+      - nguoi-chanh-hanh-song-an-vui.qmd
+      - the-gian-nay-tua-ho-nhu-bot-nuoc.qmd
+      - nguoi-thien-tri-khong-luyen-ai-the-gian.qmd
+      - nguoi-chuyen-can-chanh-niem-roi-sang-the-gian.qmd
+      - hanh-dong-lanh-co-the-che-lap-nghiep-xau.qmd
+      - nguoi-sang-suot-hiem-co.qmd
+      - nguoi-thien-tri-co-thoat-ra-khoi-the-gian-nay.qmd
+      - khong-co-dieu-ac-nao-ma-nguoi-gian-doi-khong-lam-duoc.qmd
+      - nguoi-bon-xen-khong-hanh-phuc.qmd
+      - tien-bo-tinh-than-quy-hon-quyen-ba-chu-tren-the-gian.qmd
+    - part: pham-duc-phat.qmd
+      chapters:
+      - duc-phat-vo-luong.qmd
+      - duc-phat-duoc-tat-ca-kinh-mo.qmd
+      - hiem-co-mot-vi-phat.qmd
+      - hay-tao-thien-nghiep-song-doi-trong-sach.qmd
+      - khoai-lac-vat-chat-khong-bao-gio-thoa-man.qmd
+      - quy-y-de-thoat-kho.qmd
+      - hang-nguoi-cao-quy-that-hi-huu.qmd
+      - nhung-dieu-dem-lai-hanh-phuc.qmd
+      - ton-kinh-bac-dang-kinh.qmd
+    - part: pham-an-lac.qmd
+      chapters:
+      - khong-han-thu-giua-nguoi-thu-han.qmd
+      - hay-tieu-tru-chuong-ngai.qmd
+      - chien-thang-nuoi-duong-han-thu.qmd
+      - tham-ai-la-lua.qmd
+      - bung-doi-la-phien-nao-quan-trong.qmd
+      - suc-khoe-la-vang.qmd
+      - hanh-phuc-thay-nguoi-nem-huong-vi-cua-chan-ly.qmd
+      - phuoc-bau-thay-duoc-dien-kien-bac-thanh-nhan.qmd
+    - part: pham-hy-ai.qmd
+      chapters:
+      - hay-tranh-nhung-gi-phai-tranh.qmd
+      - than-yeu-sanh-sau-muon.qmd
+      - men-thuong-sanh-sau-muon.qmd
+      - luyen-ai-sanh-sau-muon.qmd
+      - tham-duc-sanh-sau-muon.qmd
+      - tham-ai-sanh-sau-muon.qmd
+      - nguoi-gioi-hanh-duoc-tat-ca-kinh-mo.qmd
+      - nguoi-khong-luyen-ai-o-phia-tren-dong-suoi.qmd
+      - phuoc-bau-don-ruoc-nguoi-hanh-thien.qmd
+    - part: pham-phan-no.qmd
+      chapters:
+      - hay-dut-bo-san-han.qmd
+      - hay-che-ngu-tam-san.qmd
+      - hay-lay-tinh-thuong-che-ngu-tam-san.qmd
+      - hay-chan-that-nhan-nai-va-bo-thi.qmd
+      - bac-vo-hai-thanh-dat-trang-thai-bat-diet.qmd
+      - nguoi-giac-tinh-xa-lia-cac-hoac-lau.qmd
+      - khien-trach.qmd
+      - hay-giu-than-khau-y-trong-sach.qmd
+    - part: pham-cau-ue.qmd
+      chapters:
+      - cai-chet-gan-ke.qmd
+      - hay-tu-thanh-loc-dan-dan.qmd
+      - hanh-dong-ac-lam-suy-sup-nguoi-hanh-ac.qmd
+      - nguyen-nhan-cua-ue-truoc.qmd
+      - vo-minh-la-ue-truoc-lon-nhat.qmd
+      - song-khong-biet-ho-then-la-de.qmd
+      - nguoi-khong-giu-ngu-gioi-tu-lam-minh-sup-do.qmd
+      - nguoi-co-tam-do-ky-khong-an-tinh.qmd
+      - khong-co-song-nao-nhu-ai-duc.qmd
+      - thay-loi-nguoi-thi-de.qmd
+      - ben-trong-ke-chi-tim-loi-nguoi-khac-o-nhiem-sanh-them-o-nhiem.qmd
+      - ben-ngoai-khong-co-bac-thanh.qmd
+    - part: pham-chanh-hanh.qmd
+      chapters:
+      - cong-bang-khong-thien-vi.qmd
+      - khong-phai-noi-nhieu-la-co-tri-tue.qmd
+      - nguoi-thong-suot-giao-phap-khong-ham-noi.qmd
+      - khong-phai-toc-bac-la-dai-duc.qmd
+      - be-ngoai-khong-lam-con-nguoi-tro-nen-luong-thien.qmd
+      - dau-tron-vai-vuong-khong-tao-nen-thay-ty-kheo.qmd
+      - khong-phai-chi-khat-thuc-la-thanh-ty-kheo.qmd
+      - im-lang-khong-lam-nen-bac-hien-thanh.qmd
+      - khong-gay-ton-hai.qmd
+      - dung-man-nguyen-khi-chua-tan-diet-het-duc-vong.qmd
+    - part: pham-dao-lo.qmd
+      chapters:
+      - bat-chanh-dao-la-con-duong-cao-thuong-nhat.qmd
+      - tat-ca-cac-vat-huu-lau-deu-vo-thuong.qmd
+      - tat-ca-cac-vat-huu-lau-deu-kho-nao.qmd
+      - tat-ca-deu-vo-nga.qmd
+      - ke-luoi-bieng-khong-chung-ngo-con-duong.qmd
+      - hay-thanh-loc-than-khau-y.qmd
+      - hay-lam-the-nao-de-tang-truong-tri-tue.qmd
+      - hay-dut-bo-luyen-ai.qmd
+      - hay-phat-trien-con-duong-an-tinh.qmd
+      - ke-si-me-khong-nhan-dinh-moi-hiem-hoa-cua-su-chet.qmd
+      - cai-chet-nam-lay-ke-dam-me.qmd
+      - gio-phut-lam-chung-khong-co-bao-tro.qmd
+    - part: pham-tap-luc.qmd
+      chapters:
+      - tu-bo-hanh-phuc-nho-de-dat-hanh-phuc-to.qmd
+      - khong-lay-thu-dap-lai-thu.qmd
+      - hoac-lau-cua-nguoi-nga-man-tang-truong.qmd
+      - a-la-han-khong-sau-muon.qmd
+      - suy-niem-ve-tam-bao.qmd
+      - dut-bo-la-kho.qmd
+      - nguoi-co-tam-dao-o-dau-cung-duoc-quy-trong.qmd
+      - nguoi-tot-duoc-nhan-thay-tu-xa.qmd
+      - thoa-thich-trong-canh-co-don-tich-mich.qmd
+    - part: pham-dia-nguc.qmd
+      chapters:
+      - ke-noi-doi-chiu-dau-kho.qmd
+      - ty-kheo-o-nhiem-chiu-canh-kho.qmd
+      - khong-nen-lam-nguoi-bat-thien.qmd
+      - ta-dam-la-tao-nghiep-ac.qmd
+      - kiep-song-o-nhiem-ket-thuc-trong-dau-kho.qmd
+      - dau-mot-loi-nho-cung-khong-nen-pham.qmd
+      - hay-can-mat-giu-minh-nhu-canh-phong-mot-thanh-tri.qmd
+      - khong-nen-so-dieu-khong-dang-so.qmd
+      - thay-sai-biet-sai-thay-dung-biet-dung.qmd
+    - part: pham-con-voi.qmd
+      chapters:
+      - hanh-phuc-thay-nguoi-tu-che-ngu.qmd
+      - tu-kiem-soat-dua-den-muc-tieu.qmd
+      - voi-con-biet-lo-cho-me.qmd
+      - am-thuc-tiet-do.qmd
+      - hay-kiem-soat-tu-tuong.qmd
+      - hay-lanh-xa-duong-ac.qmd
+      - hay-ket-hop-voi-bac-thien-tri.qmd
+      - hanh-phuc-thay.qmd
+    - part: pham-ai-duc.qmd
+      chapters:
+      - ai-duc-phat-sanh-den-nguoi-song-de-duoi.qmd
+      - bao-gio-con-ai-duc-la-con-dau-kho.qmd
+      - tro-ve-doi-song-the-gian-la-dien-cuong.qmd
+      - day-troi-buoc-cua-ngu-tran-con-ngan-lan-ben-chac-hon-day-xich.qmd
+      - ke-tham-ai-bi-mac-trong-luoi-tham-cua-minh.qmd
+      - hay-thoat-ly-cai-tam.qmd
+      - tam-niem-cham-dut-ai-duc.qmd
+      - nguoi-thoat-ly-ai-duc-song-kiep-song-cuoi-cung.qmd
+      - dang-toan-giac-khong-co-thay.qmd
+      - bo-thi-chan-ly-cao-thuong-hon-tat-ca.qmd
+      - su-giau-sang-lam-sup-do-ke-si-me.qmd
+      - khuyet-diem-cua-loai-nguoi.qmd
+    - part: pham-ty-kheo.qmd
+      chapters:
+      - hay-thu-thuc-luc-can.qmd
+      - nguoi-tu-kiem-che-hoan-toan-duoc-goi-la-ty-kheo.qmd
+      - nguoi-dieu-phuc-luoi-co-loi-em-diu.qmd
+      - nguoi-thoa-thich-trong-giao-phap-khong-roi-xuong.qmd
+      - hay-tri-tuc.qmd
+      - vi-ay-la-ty-kheo-vi-khong-con-luyen-ai.qmd
+      - de-xung-lam-ty-kheo.qmd
+      - hay-vat-bo-tham-san.qmd
+      - nguoi-thoat-ly-the-tinh-song-an-tinh.qmd
+      - nguoi-tu-dieu-che-song-an-lanh-hanh-phuc.qmd
+      - voi-phi-lac-va-niem-tin-hay-co-gang-thanh-dat-muc-tieu.qmd
+      - long-nhiet-thanh-voi-giao-phap-roi-sang-the-gian.qmd
+    - part: pham-ba-la-mon.qmd
+      chapters:
+      - hay-lam-nguoi-sang-suot-trang-thai-vo-tao.qmd
+      - hay-trau-doi-tam-dinh-va-tue-minh-sat.qmd
+      - ba-la-mon-la-nguoi-khong-bi-rang-buoc.qmd
+      - ba-la-mon-la-nguoi-hanh-thien-va-trong-sach.qmd
+      - duc-phat-rang-to-ngay-nhu-dem.qmd
+      - la-thanh-nhan-vi-da-xa-lia-ac-nghiep.qmd
+      - cho-gay-ton-hai-mot-vi-a-la-han.qmd
+      - that-su-ba-la-mon-la-nguoi-than-trong-thu-thuc.qmd
+      - hay-ton-kinh-nhung-bac-dang-kinh.qmd
+      - trong-sach-thay-nguoi-chan-that-va-chanh-hanh.qmd
+      - hay-thanh-tinh-ben-trong.qmd
+      - ba-la-mon-la-nguoi-hanh-thien-trong-rung-mot-minh.qmd
+      - ba-la-mon-la-nguoi-khong-tai-san-va-luyen-ai.qmd
+      - ba-la-mon-la-nguoi-tan-diet-moi-thang-thuc.qmd
+      - ba-la-mon-la-nguoi-khong-san-han.qmd
+      - ba-la-mon-la-nguoi-nhan-nai.qmd
+      - ba-la-mon-la-nguoi-khong-nong-gian.qmd
+      - ba-la-mon-khong-luyen-ai-duc-lac.qmd
+      - ba-la-mon-la-nguoi-da-bo-ganh-nang-xuong.qmd
+      - ba-la-mon-la-nguoi-da-dat-duoc-muc-tieu-cung-tot.qmd
+      - ba-la-mon-la-nguoi-khong-triu-men.qmd
+      - ba-la-mon-la-nguoi-khong-gay-ton-thuong-cho-bat-ky-ai.qmd
+      - ba-la-mon-la-nguoi-than-huu-giua-dam-dong-thu-dich.qmd
+      - ba-la-mon-la-nguoi-lanh-xa-moi-khat-vong.qmd
+      - ba-la-mon-la-nguoi-khong-xuc-pham-den-ai.qmd
+      - ba-la-mon-la-nguoi-khong-trom-cap.qmd
+      - ba-la-mon-la-nguoi-khong-tham-vong.qmd
+      - ba-la-mon-la-nguoi-khong-con-luyen-ai.qmd
+      - ba-la-mon-la-nguoi-da-vuot-khoi-thien-ac.qmd
+      - ba-la-mon-la-nguoi-trong-sach.qmd
+      - ba-la-mon-la-nguoi-khong-bam-viu-vao-dieu-chi.qmd
+      - ba-la-mon-la-nguoi-da-dut-bo-duc-lac.qmd
+      - ba-la-mon-la-nguoi-dut-bo-ai-duc.qmd
+      - ba-la-mon-la-nguoi-da-tach-roi-moi-rang-buoc.qmd
+      - ba-la-mon-la-nguoi-da-dut-bo-ua-va-ghet.qmd
+      - ba-la-mon-la-nguoi-da-dac-qua-a-la-han.qmd
+      - ba-la-mon-la-nguoi-khong-uoc-ao-gi.qmd
+      - ba-la-mon-la-nguoi-da-giac-ngo.qmd
+      - ba-la-mon-la-nguoi-tu-lam-cho-minh-tro-nen-toan-thien.qmd
+      
+format:
+  html:
+    fontsize: 20px;
+    theme: 
+      light: [cosmo, theme.scss]
+      dark: [darkly, theme.scss]
+
+
+

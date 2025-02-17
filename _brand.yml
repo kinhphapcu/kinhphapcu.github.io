@@ -1,0 +1,9 @@
+typography:
+  fonts:
+    - family: Crimson Pro
+      source: google
+  base:
+    family: Crimson Pro
+    size: 18px
+  headings: Crimson Pro
+
